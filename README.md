@@ -13,6 +13,7 @@
   <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
 </p>
 ---
+
 ## 🤔 Let's Connect
 
 I’m always open to discussing new projects, technologies, and opportunities. Feel free to reach out to me through [LinkedIn](https://www.linkedin.com/in/ali-günyüzü-b517b2321/) or [instagram](https://instagram/alignyzu)!
