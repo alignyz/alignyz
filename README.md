@@ -28,5 +28,5 @@
 
 ---
 
-Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/alignyz/) or [Twitter](https://twitter.com/alignyz)!
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/ali-günyüzü-b517b2321/) or [İnstagram](https://www.instagram.com/ali_gnyzu/))!
 
