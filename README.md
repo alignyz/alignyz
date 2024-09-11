@@ -17,3 +17,12 @@
 
 I’m always open to discussing new projects, technologies, and opportunities. Feel free to reach out to me through [LinkedIn](https://www.linkedin.com/in/ali-günyüzü-b517b2321/) or [instagram](https://instagram/alignyzu)!
 
+## 🤔 Fun Facts
+
+- I’m a huge fan of science fiction movies and TV shows.
+- I love cooking and trying out new recipes on weekends.
+- My favorite programming language is JavaScript, but I’m always open to learning new ones.
+
+## 💬 Feedback & Suggestions
+
+I welcome feedback on my projects and suggestions for improvement. If you have any ideas or comments, feel free to reach out!
