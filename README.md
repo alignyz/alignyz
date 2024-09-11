@@ -12,19 +12,9 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+
 </p>
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alignyz&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alignyz&layout=compact" alt="Top Languages"/>
-</p>
-
-## 🚀 Recent Projects
-
-- **[Project Name](https://github.com/alignyz/project-name)**: A brief description of the project, what it does, and why it’s useful.
+.
 
 ---
 
