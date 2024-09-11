@@ -13,5 +13,5 @@
   <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
 </p>
 ---
-Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/ali-günyüzü-b517b2321/) or [İnstagram](https://www.instagram.com/ali_gnyzu/))!
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/ali-günyüzü-b517b2321/) or [İnstagram](https://www.instagram.com/ali_gnyzu/)!
 
