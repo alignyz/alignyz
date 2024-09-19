@@ -1,4 +1,4 @@
-# Hi there, I'm Alignyz! 👋
+# Hi there, I'm Ali gunyuzu! 👋
 
 ## 💻 Languages and Tools
 
